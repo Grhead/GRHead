@@ -1,5 +1,4 @@
 ### GR-74
-
 <!--
 **Grhead/GRHead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grhead&show_icons=true&theme=panda)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grhead&layout=compact&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
