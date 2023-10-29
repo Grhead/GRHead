@@ -1,6 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Vm6KHYCYGBlKdxXAjz/giphy.gif"/>
-</div>
+
+![Alt Text](https://media.giphy.com/media/0bn6M5UEZLRhyD5wff/giphy.gif)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grhead&show_icons=true&theme=panda)
