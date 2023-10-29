@@ -9,6 +9,9 @@
   <a href="mailto:egor.mishchuk17@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://discordapp.com/users/429303337742106624/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=grhead&style=for-the-badge&color=lightgrey" alt=""/>
+</div>
 
 ---
 
