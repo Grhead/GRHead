@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/art-loop-trippy-26DoiqmYcxgFICb3G" width="100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTN4bzdlY2pyOWFhdjJwdDc2YTgwbm14MXVyYnRpNzBqMnRlcDljNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DoiqmYcxgFICb3G/giphy.gif" width="100"/>
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grhead&show_icons=true&theme=panda)
