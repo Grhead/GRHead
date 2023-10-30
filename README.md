@@ -34,3 +34,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grhead&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+<div id="header" align="center">
+  <img src="electric.gif" width="250"/>
+  <img src="electric.gif" width="250"/>
+  <img src="electric.gif" width="250"/>
+</div>
