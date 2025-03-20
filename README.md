@@ -34,10 +34,11 @@
  </div>
  
  <div align="center">
- 	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GRHead&theme=nord&hide_border=true" alt="GitHub Streak"/></a>
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=GRHead&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  </div>
  
  <div align="center">
     
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grhead&size_weight=0.5&count_weight=0.5&layout=compact&theme=nord)
+ ![Top Langs1](https://github-readme-stats.vercel.app/api/top-langs/?username=grhead&size_weight=0.5&count_weight=0.5&layout=compact&theme=nord)
  </div>
